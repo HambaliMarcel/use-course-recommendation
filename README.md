@@ -1,10 +1,10 @@
 # USE Course Recommendation: Efficient Course Matching
-CourseIdentifier is a straightforward model designed to match courses based on a Power Summary. This summary integrates the course description, outline, objectives, and difficulty level. Utilizing text embeddings from the Universal Sentence Encoder, this tool aims to provide accurate course identification easily.
+Course Identifier is a straightforward model that matches courses based on a Power Summary. This summary integrates the course description, outline, objectives, and difficulty level. Utilizing text embeddings from the Universal Sentence Encoder, this model aims to provide accurate course identification easily.
 
 ## Features
-Text Embeddings: Uses Universal Sentence Encoder to embed text data.
-Course Matching: Identifies and recommends courses based on the input text.
-Visualization: Displays the embedding space using PCA.
+- **Text Embeddings**: Uses Universal Sentence Encoder to embed text data.
+- **Course Matching**: Identifies and recommends courses based on the input text.
+- **Visualization**: Displays the embedding space using PCA.
 
 ## Requirements
 - Python 3.x
